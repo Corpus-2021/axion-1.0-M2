@@ -1,0 +1,22 @@
+component_depth: 1
+languages:
+- java
+exclude:
+- ./bin/.*
+- ./bin/org/.*
+- ./bin/org/axiondb/.*
+- ./bin/org/axiondb/constraints/.*
+- ./bin/org/axiondb/engine/.*
+- ./bin/org/axiondb/engine/commands/.*
+- ./bin/org/axiondb/engine/rowiterators/.*
+- ./bin/org/axiondb/event/.*
+- ./bin/org/axiondb/expression/.*
+- ./bin/org/axiondb/functions/.*
+- ./bin/org/axiondb/jdbc/.*
+- ./bin/org/axiondb/parser/.*
+- ./bin/org/axiondb/tools/.*
+- ./bin/org/axiondb/types/.*
+- ./bin/org/axiondb/util/.*
+- ./conf/.*
+- ./grammars/.*
+- ./lib/.*
